@@ -15,4 +15,4 @@ after cloning the repo
 
 run : flutter pub get 
 
-feel free to be creative about the repo all be glad to add your changes even a folder structure :)
+feel free to be creative about the repo I'll be glad to add your changes even a folder structure :)
